@@ -1,0 +1,19 @@
+{
+  "name": "polymer-3-anchorlink",
+  "version": "3.0.0-pre.12",
+  "flat": true,
+  "description": "Anchor link test with Polymer 3.0!",
+  "main": "index.html",
+  "author": "The Polymer Project Authors",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.12",
+    "@webcomponents/webcomponentsjs": "^1.0.20",
+    "@polymer/paper-dialog": "^3.0.1",
+    "@polymer/paper-tabs": "^3.1.0",
+    "@polymer/iron-pages": "^3.0.1"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.20"
+  }
+}
