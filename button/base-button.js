@@ -1,6 +1,7 @@
 import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
 
 export default class BaseButton extends PolymerElement {
+
     static get template() {
         return html`
             ${this.styleTemplate}

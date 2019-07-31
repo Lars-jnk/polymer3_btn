@@ -4,8 +4,6 @@ import '@polymer/paper-tabs/paper-tabs.js';
 import '@polymer/paper-tabs/paper-tab.js';
 import '@polymer/iron-pages';
 
-import SleepBehavior from './behavior/sleep-behavior.js';
-
 
 export default class AnchorPart extends PolymerElement {
 
